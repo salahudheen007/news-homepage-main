@@ -28,7 +28,7 @@ Users should be able to:
 ![Desktop View](./Screenshots/desktop.png)
 
 Mobile View
-![Mobile View](./Screenshots/mobile.png)
+![Mobile View](./Screenshots/mobile.jpg)
 
 ### Links
 
